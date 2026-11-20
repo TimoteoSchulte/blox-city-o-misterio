@@ -1,0 +1,4 @@
+node_modules/
+ferramentas/cloudflared.exe
+ferramentas/cloudflared
+*.log
