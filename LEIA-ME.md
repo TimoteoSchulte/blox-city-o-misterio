@@ -179,3 +179,12 @@ papel. Movimentos impossíveis (rápidos demais ou atravessando paredes) são co
 - Mais profissões (`shared/papeis.js`).
 - Armários nas casas para se esconder.
 - Sons e música.
+
+## Link fixo (Render, grátis)
+
+O jogo está publicado em **https://blox-city.onrender.com** (plano grátis do Render).
+O código fica no GitHub: https://github.com/TimoteoSchulte/blox-city-o-misterio
+
+- Se ninguém jogar por ~15 minutos, o servidor "dorme"; o primeiro a abrir o link espera ~1 minuto.
+- Para publicar mudanças no jogo: `git add -A`, `git commit -m "..."` e `git push`. O Render atualiza sozinho em ~2 minutos (salas abertas na hora são encerradas).
+- O `INICIAR-SERVIDOR.bat` continua funcionando para jogar pelo seu PC com link temporário.
